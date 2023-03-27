@@ -36,3 +36,4 @@ $ npm run build
 - 给组件传递 props
 - 为组件添加自定义组件的配置，如：`virtualHost`
 # taro-demo
+# taro-demo
